@@ -1,5 +1,5 @@
 //Transpose of a Matrix.
-class Transpose {
+class TransposeMatrix {
     public static void main(String[] args) {
         int rows, cols;
         int a[][] = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
