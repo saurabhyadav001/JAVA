@@ -1,0 +1,24 @@
+
+Shortcut Keys	Special Character
+Alt+0224	à
+Alt+0232	è
+Alt+0236	ì
+Alt+0242	ò
+Alt+0241	ñ
+Alt+0228	ä
+Alt+0246	ö
+Alt+0252	ü
+Alt+0248	ø
+Alt+0223	ß
+Alt+0198	Æ
+Alt+0231	ç
+Alt+0191	¿
+Alt+0176	°  (degree symbol)
+Alt+0177	±  (plus/minus symbol)
+Alt+0153	™
+Alt+0169	©
+Alt+0174	®
+Alt+0128	€  (Euro currency)
+Alt+0162	¢  (Cent symbol)
+Alt+0163	£  (British Pound currency)
+Alt+0165	¥  (Japanese Yen currency)
